@@ -4,7 +4,7 @@ puts "|-------------------------|"
 puts "|--By: Matthew Hambrecht--|"
 puts "|-------------------------|"
 
-print "\n Enter the diameter of the circle: "
+print "\nEnter the diameter of the circle: "
 d = gets.chomp.to_f
 r = d / 2
 r2 = r**2
